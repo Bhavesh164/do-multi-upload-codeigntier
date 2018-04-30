@@ -1,5 +1,5 @@
 # do-multi-upload-codeigntier
-
+```
 public function multiupload(){	
 	$this->load->library('upload');
 	 $path = './assets/images/';
@@ -11,3 +11,4 @@ public function multiupload(){
 			//Code to run upon successful upload
 		}
 }
+```
